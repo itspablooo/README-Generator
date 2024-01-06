@@ -1,0 +1,14 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Console App for generating a README file",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Pablo Moreno-Rivera",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
